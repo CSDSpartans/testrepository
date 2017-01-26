@@ -1,3 +1,10 @@
+print("Hello there")
+
+name = input("What is your name?\n>> ")
+
+print("Hi " + name)
+
+print ("I'm Rick Harrison and this meme died months ago")
 #!/usr/bin/env python3
 
 print("Hello person that is alive")
