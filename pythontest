@@ -4,4 +4,8 @@ print("Hello person that is alive")
 name = input("What is your name?\n>> ")
 print("Hi " + name)
 
-print("Hi Logan")
+print("Hi Joe007")
+
+print("we took a dub yesterday") 
+
+print("grind house") 
