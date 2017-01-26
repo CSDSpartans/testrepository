@@ -3,3 +3,5 @@
 print("Hello person that is alive")
 name = input("What is your name?\n>> ")
 print("Hi " + name)
+
+print("Hi Joe007")
